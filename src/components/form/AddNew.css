@@ -1,0 +1,11 @@
+.box {
+    width: 70%;
+    height: 80%;
+    background-color: rgb(196, 218, 255);
+    border: 5px solid rgb(196, 218, 255);
+    margin: auto;
+}
+
+.text {
+    text-align: center;
+}

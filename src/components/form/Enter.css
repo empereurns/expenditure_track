@@ -1,0 +1,15 @@
+.save {
+    background-color: lightseagreen;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 10px 10px 10px;
+}
+
+.close {
+    background-color: #6a6e6c;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 10px 10px 10px;
+}

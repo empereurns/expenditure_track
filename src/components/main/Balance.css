@@ -1,0 +1,8 @@
+.income {
+    display: inline-block;
+    margin-right: 50%;
+}
+
+.expense {
+    display: inline-block;
+}

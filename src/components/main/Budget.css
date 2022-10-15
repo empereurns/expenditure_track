@@ -1,0 +1,16 @@
+.full {
+    width: 70%;
+    height: 80%;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid rgb(255, 255, 255);
+    margin: auto;
+}
+
+.hr {
+    color: rgb(255, 255, 255);
+    
+}
+
+.App {
+    text-align: center;
+}
